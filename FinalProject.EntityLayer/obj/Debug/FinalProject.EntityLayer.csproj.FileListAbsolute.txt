@@ -1,0 +1,15 @@
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.EntityLayer\bin\Debug\FinalProject.EntityLayer.dll
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.EntityLayer\bin\Debug\FinalProject.EntityLayer.pdb
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.EntityLayer\obj\Debug\FinalProject.EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.EntityLayer\obj\Debug\FinalProject.EntityLayer.dll
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.EntityLayer\obj\Debug\FinalProject.EntityLayer.pdb
+H:\FInalProjectSolution\FinalProject.EntityLayer\bin\Debug\FinalProject.EntityLayer.dll
+H:\FInalProjectSolution\FinalProject.EntityLayer\bin\Debug\FinalProject.EntityLayer.pdb
+H:\FInalProjectSolution\FinalProject.EntityLayer\obj\Debug\FinalProject.EntityLayer.csprojResolveAssemblyReference.cache
+H:\FInalProjectSolution\FinalProject.EntityLayer\obj\Debug\FinalProject.EntityLayer.dll
+H:\FInalProjectSolution\FinalProject.EntityLayer\obj\Debug\FinalProject.EntityLayer.pdb
+E:\C_SHARP\FInalProjectSolution\FinalProject.EntityLayer\bin\Debug\FinalProject.EntityLayer.dll
+E:\C_SHARP\FInalProjectSolution\FinalProject.EntityLayer\bin\Debug\FinalProject.EntityLayer.pdb
+E:\C_SHARP\FInalProjectSolution\FinalProject.EntityLayer\obj\Debug\FinalProject.EntityLayer.csprojResolveAssemblyReference.cache
+E:\C_SHARP\FInalProjectSolution\FinalProject.EntityLayer\obj\Debug\FinalProject.EntityLayer.dll
+E:\C_SHARP\FInalProjectSolution\FinalProject.EntityLayer\obj\Debug\FinalProject.EntityLayer.pdb

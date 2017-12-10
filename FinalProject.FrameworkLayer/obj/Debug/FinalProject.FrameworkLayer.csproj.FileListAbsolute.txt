@@ -1,0 +1,15 @@
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.FrameworkLayer\bin\Debug\FinalProject.FrameworkLayer.dll
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.FrameworkLayer\bin\Debug\FinalProject.FrameworkLayer.pdb
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.FrameworkLayer\obj\Debug\FinalProject.FrameworkLayer.csprojResolveAssemblyReference.cache
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.FrameworkLayer\obj\Debug\FinalProject.FrameworkLayer.dll
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.FrameworkLayer\obj\Debug\FinalProject.FrameworkLayer.pdb
+H:\FInalProjectSolution\FinalProject.FrameworkLayer\bin\Debug\FinalProject.FrameworkLayer.dll
+H:\FInalProjectSolution\FinalProject.FrameworkLayer\bin\Debug\FinalProject.FrameworkLayer.pdb
+H:\FInalProjectSolution\FinalProject.FrameworkLayer\obj\Debug\FinalProject.FrameworkLayer.csprojResolveAssemblyReference.cache
+H:\FInalProjectSolution\FinalProject.FrameworkLayer\obj\Debug\FinalProject.FrameworkLayer.dll
+H:\FInalProjectSolution\FinalProject.FrameworkLayer\obj\Debug\FinalProject.FrameworkLayer.pdb
+E:\C_SHARP\FInalProjectSolution\FinalProject.FrameworkLayer\bin\Debug\FinalProject.FrameworkLayer.dll
+E:\C_SHARP\FInalProjectSolution\FinalProject.FrameworkLayer\bin\Debug\FinalProject.FrameworkLayer.pdb
+E:\C_SHARP\FInalProjectSolution\FinalProject.FrameworkLayer\obj\Debug\FinalProject.FrameworkLayer.csprojResolveAssemblyReference.cache
+E:\C_SHARP\FInalProjectSolution\FinalProject.FrameworkLayer\obj\Debug\FinalProject.FrameworkLayer.dll
+E:\C_SHARP\FInalProjectSolution\FinalProject.FrameworkLayer\obj\Debug\FinalProject.FrameworkLayer.pdb

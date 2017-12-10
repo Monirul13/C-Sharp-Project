@@ -1,0 +1,27 @@
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.DataAccessLayer.dll
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.DataAccessLayer.pdb
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.EntityLayer.dll
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.FrameworkLayer.dll
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.EntityLayer.pdb
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.FrameworkLayer.pdb
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.DataAccessLayer\obj\Debug\FinalProject.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.DataAccessLayer\obj\Debug\FinalProject.DataAccessLayer.dll
+C:\Users\Monirul Islam\Desktop\FInalProjectSolution\FinalProject.DataAccessLayer\obj\Debug\FinalProject.DataAccessLayer.pdb
+H:\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.DataAccessLayer.dll
+H:\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.DataAccessLayer.pdb
+H:\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.EntityLayer.dll
+H:\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.FrameworkLayer.dll
+H:\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.EntityLayer.pdb
+H:\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.FrameworkLayer.pdb
+H:\FInalProjectSolution\FinalProject.DataAccessLayer\obj\Debug\FinalProject.DataAccessLayer.csprojResolveAssemblyReference.cache
+H:\FInalProjectSolution\FinalProject.DataAccessLayer\obj\Debug\FinalProject.DataAccessLayer.dll
+H:\FInalProjectSolution\FinalProject.DataAccessLayer\obj\Debug\FinalProject.DataAccessLayer.pdb
+E:\C_SHARP\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.DataAccessLayer.dll
+E:\C_SHARP\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.DataAccessLayer.pdb
+E:\C_SHARP\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.EntityLayer.dll
+E:\C_SHARP\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.FrameworkLayer.dll
+E:\C_SHARP\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.EntityLayer.pdb
+E:\C_SHARP\FInalProjectSolution\FinalProject.DataAccessLayer\bin\Debug\FinalProject.FrameworkLayer.pdb
+E:\C_SHARP\FInalProjectSolution\FinalProject.DataAccessLayer\obj\Debug\FinalProject.DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\C_SHARP\FInalProjectSolution\FinalProject.DataAccessLayer\obj\Debug\FinalProject.DataAccessLayer.dll
+E:\C_SHARP\FInalProjectSolution\FinalProject.DataAccessLayer\obj\Debug\FinalProject.DataAccessLayer.pdb
